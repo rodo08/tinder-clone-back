@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+.idea/
+.vscode/
+*.code-workspace
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE settings
+*.iml
